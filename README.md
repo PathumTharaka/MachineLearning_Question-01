@@ -2,6 +2,6 @@
 .
 Machine Learning Module HNDA
 
-# Nibm Nic
+# Linear Regressions
 
-## Data science
+## Regression Types
